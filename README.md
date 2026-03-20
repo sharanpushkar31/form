@@ -11,5 +11,7 @@ Features
 🔄 Shows how form submissions update the user list.
 
 ⚠️ Currently, duplicate entries are not restricted (as seen in the screenshot), making it a good starting point for implementing validation logic.
+screenshot
 
-Screenshot<img width="455" height="428" alt="image" src="https://github.com/user-attachments/assets/60d08d54-73f9-45c1-83e9-5d4d8fbeffae" />
+<img width="1196" height="651" alt="image" src="https://github.com/user-attachments/assets/c9178c64-46b6-477d-badc-28cfc6b75fb7" />
+
